@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Software Engineering student
-- ⚙️ Building RESTful APIs with ASP.NET Core  
 - 🛠 Interested in backend systems and web applications  
 - 🔍 Focused on writing clean, maintainable code  
 
