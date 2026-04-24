@@ -68,4 +68,4 @@ Multi-role system for grading, feedback, and performance tracking
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyanlinhtetdev&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nyanlinhtet&theme=onedark&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=nyanlinhtetdev&theme=onedark&row=1&column=7)
