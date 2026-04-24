@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nyan Htet
+# 👋 Hi, I'm Nyan Lin Htet
 
 Software Engineering student working with web technologies, APIs, and databases.  
 Interested in website functionality, performance, and real-world applications.
@@ -41,4 +41,4 @@ Microsoft SQL Server (MSSQL), SQL
 
 - 📧 Email: nlinhtet.dev22@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/nyan-lin-htet-39a0573a1/
-- 🌐 GitHub: https://github.com/nyanlinhtetdev  
+- 📘 Facebook: https://www.facebook.com/nyan.lin.htet.752161
