@@ -56,13 +56,3 @@ Multi-role system for grading, feedback, and performance tracking
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyanlinhtetdev&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanlinhtetdev&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyanlinhtetdev&theme=radical)
