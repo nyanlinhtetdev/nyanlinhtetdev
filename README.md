@@ -12,7 +12,7 @@
 
 - 🎓 Software Engineering student
 - 🛠 Interested in backend systems and web applications  
-- 🔍 Focused on writing clean, maintainable code  
+- 🔍 Focused on writing clean and maintainable code  
 
 ---
 
